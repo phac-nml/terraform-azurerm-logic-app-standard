@@ -1,3 +1,7 @@
+# Azure Logic App (Standard)
+
+This terraform module initializes and deploys a VNet integrated [Azure Logic App (Standard)](https://learn.microsoft.com/en-us/azure/logic-apps/). A required [Storage Account File Share](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview) and [Application Insights](https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview) are also created.
+
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
